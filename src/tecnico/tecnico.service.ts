@@ -13,6 +13,9 @@ export class TecnicoService {
     {
       id:2, nombre:'Marcos' , nivel: '3', experiencia: 'media',estado:true
     },
+    {
+      id:3, nombre:'Pedro' , nivel: '2', experiencia: 'baja',estado:true
+    },
   ]
 
   create(createTecnicoDto: CreateTecnicoDto) {
