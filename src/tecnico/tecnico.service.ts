@@ -11,7 +11,7 @@ export class TecnicoService {
       id:1, nombre:'Luis' , nivel: '4', experiencia: 'media', estado:true
     },
     {
-      id:2, nombre:'Marcos' , nivel: '2', experiencia: 'media',estado:true
+      id:2, nombre:'Marcos' , nivel: '3', experiencia: 'media',estado:true
     },
   ]
 
